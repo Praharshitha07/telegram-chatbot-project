@@ -20,4 +20,12 @@ This is a Telegram chatbot developed using Node.js.
 2. Create .env file
 3. Add BOT_TOKEN in .env
 4. Run the bot
+
    node bot.js
+   ## environment variables
+   create a .env file in the root folder and add:
+   BOT_TOKEN=your _telegram_bot_token
+   hten run:
+   npm install
+   node bot.js
+   
